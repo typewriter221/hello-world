@@ -1,2 +1,3 @@
 # hello-world
 first repository
+So, i am trying to get the hang of git hub let's goooooooooo...
