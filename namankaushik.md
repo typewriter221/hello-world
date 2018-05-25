@@ -18,4 +18,4 @@ I am very keen to learn here and at present machine learning fascinates me along
 3. Python(Learning)
 
 
-Looking forward not to waste two months.
+Looking forward not to waste two months
